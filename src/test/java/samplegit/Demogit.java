@@ -11,7 +11,7 @@ public class Demogit {
 		
 		System.out.println("User 2 first commit");
 		
-		System.out.println("USer2 second commit-- gitConflict");
+		System.out.println("USer2 second commit-- gitConflicts");
 	}
 
 }
