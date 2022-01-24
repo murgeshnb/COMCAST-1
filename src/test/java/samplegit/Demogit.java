@@ -10,6 +10,8 @@ public class Demogit {
 		System.out.println("Hiii this is first commit");
 		
 		System.out.println("User 2 first commit");
+		
+		System.out.println("USer2 second commit-- gitConflict");
 	}
 
 }
